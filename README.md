@@ -1,0 +1,1 @@
+# [Harvard's CS50AI - Pset1 - Knights](https://cs50.harvard.edu/ai/2020/projects/1/knights/)
